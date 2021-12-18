@@ -1,3 +1,8 @@
-	-- I'm The_UltimateNuke and ur mother is fat 
-	-- I'm a chronic x̵̢̢̤͙̤̣̙̓̋̈́́͛͆̐̔̍a̷̮͔͚͔̜̘̱̠̍̔̾̄̔̐̇̑̚͜k̸̡̢̙͎̼͓̜̫̟̱̠̹̝͋̅͒̐̌̂w̵̛̛͍̼̬͔͛̂͐͋͊̅̈̂̄̍́͠͝ addict :D
-	-- bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+the games are in ur head :O
+games
+games
+games
+games
+games
+
+idk what im doing anymore lol
