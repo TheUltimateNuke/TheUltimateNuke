@@ -8,6 +8,6 @@ Hello! I'm Nuke, a game dev/modder who mainly codes in C#. I like to mod anythin
 - Python
 - Lua
 - Scratch
-- Javascript (sorta)
+- Javascript (learning)
 - C++
 - Java
