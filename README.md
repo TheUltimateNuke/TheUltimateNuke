@@ -1,4 +1,4 @@
-Hello! I'm Nuke, a game dev/modder who mainly codes in C#. I like to mod anything made with Unity, and I love experimenting with Godot.  
+Hello! I'm Nuke, an intermediate-level game dev/modder. 
 - 9 years coding experience  
 - Currently in high school
 - Time zone: EST
