@@ -8,6 +8,6 @@ Hello! I'm Nuke, an intermediate-level game dev/modder.
 - Python
 - Lua
 - Scratch
-- Javascript (learning)
-- C++
-- Java
+- Javascript
+- C++ (-ish)
+- Java (-ish)
