@@ -7,8 +7,10 @@ Hello! I'm Nuke, an intermediate-level game dev/modder. I mainly specialize in m
 - C#
 - Python
 - Lua
+- GDScript
 - Scratch
 - Javascript
+- Haxe (-ish)
 - C++ (-ish)
 - Java (-ish)
 
