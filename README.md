@@ -1,7 +1,7 @@
-Hello! I'm Nuke, an intermediate-level game dev/modder. I mainly specialize in modding Unity games with MelonLoader/BepInEx.
-- 9 years coding experience  
+Hello! I'm Nuke, an intermediate-level game dev/modder and high-level tinkerer. I mainly specialize in modding Unity games with MelonLoader/BepInEx.
+- 8-10 years of coding experience  
 - Currently in high school
-- Time zone: EST
+- Time zone: ET
 
 ## Known Languages
 - C#
@@ -11,13 +11,14 @@ Hello! I'm Nuke, an intermediate-level game dev/modder. I mainly specialize in m
 - Scratch
 - Javascript
 - Haxe (-ish)
-- C++ (-ish)
+- C/C++ (-ish)
 - Java (-ish)
 
 ## Modded Games
-- BONELAB
-- Subnautica
 - Gang Beasts
+- BONELAB
 - Garry's Mod
+- Subnautica
 - Stardew Valley
 - Minecraft
+- Wobbledogs
