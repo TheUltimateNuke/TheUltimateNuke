@@ -1,6 +1,5 @@
-Hello! I'm Nuke, an intermediate-level game dev/modder and high-level tinkerer. I mainly specialize in modding Unity games with MelonLoader/BepInEx.
-- 8-10 years of coding experience  
-- Currently in high school
+Hello! I'm Nuke, an intermediate-level game dev/modder and high-level tinkerer. I mainly specialize in modding Unity games with MelonLoader/BepInEx.  
+![Relative date](https://img.shields.io/date/1388552400?style=plastic&label=Learned%20to%20code)
 - Time zone: ET
 
 ## Known Languages
@@ -10,6 +9,7 @@ Hello! I'm Nuke, an intermediate-level game dev/modder and high-level tinkerer. 
 - GDScript
 - Scratch
 - Javascript
+- Rust (-ish)
 - Haxe (-ish)
 - C/C++ (-ish)
 - Java (-ish)
