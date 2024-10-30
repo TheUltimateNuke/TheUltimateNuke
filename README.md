@@ -21,3 +21,4 @@ Hello! I'm Nuke, an intermediate-level game dev/modder and high-level tinkerer. 
 - Stardew Valley
 - Minecraft
 - Wobbledogs
+- Slime Rancher 
