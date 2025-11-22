@@ -20,6 +20,7 @@ Hello! I'm Nuke, an independent, intermediate-level game dev/modder and high-lev
 - Garry's Mod
 - Subnautica
 - Stardew Valley
+- Slime Rancher 2
 - Minecraft
 - Wobbledogs
 - Slime Rancher 
